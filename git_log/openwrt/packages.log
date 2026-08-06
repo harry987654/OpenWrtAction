@@ -1,9 +1,10 @@
 <details> <summary> <b>packages new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/openwrt/packages/compare/cd7ba48b991f8a446736c34d757975122cc4ca68...9466674e50adac150b05cb7ea681e5fc5b48babd)  
+#### [:mega: Full Changelog. ](https://github.com/openwrt/packages/compare/9466674e50adac150b05cb7ea681e5fc5b48babd...da0b5834163a1855839f6d99d598724a42318827)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-9466674e5|Dirk Brenken|Wed Aug 5 18:27:10 2026 +0200|adblock: report the last run timestamp as ISO 8601
+da0b58341|Dirk Brenken|Thu Aug 6 21:26:44 2026 +0200|banip: report the last run timestamp as ISO 8601
+277ad304e|Dirk Brenken|Thu Aug 6 15:56:40 2026 +0200|travelmate: release 2.4.7-1
 </details>

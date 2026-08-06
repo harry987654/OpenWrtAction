@@ -1,0 +1,10 @@
+<details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/fbc8c1fbae9515ad344b6e9e7238f35ef9ab143c...0c986270f3f054c20e68049cd71ddfdb827daa4a)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+0c986270|A-BO|Fri Aug 7 02:24:44 2026 +0800|luci: fixup in `iptables`
+08e44e62|A-BO|Fri Aug 7 01:49:05 2026 +0800|luci: optimize route rules for shunt node in gfw mode
+</details>
