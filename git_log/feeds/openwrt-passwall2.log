@@ -1,10 +1,10 @@
 <details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall2/compare/2617adfe1a29a6d0e57e11f29b655d027e32b6f5...9459d2a6345051bdb001c2d7cb86a5f64922ec74)  
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall2/compare/9459d2a6345051bdb001c2d7cb86a5f64922ec74...f319a5cc9117942f69f4a3282c01beb69c89eb5a)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-9459d2a|handsomeji|Sun Aug 9 18:44:05 2026 +0800|luci: adjust `cipherSuites` option
-1be8f40|Jackie264|Sun Aug 9 18:25:51 2026 +0800|luci: optimize and fixup (#1211)
+f319a5c|handsomeji|Mon Aug 10 01:08:41 2026 +0800|luci: simplify code
+2fd571b|handsomeji|Sun Aug 9 19:06:24 2026 +0800|luci: simplify code
 </details>
