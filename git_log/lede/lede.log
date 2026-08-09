@@ -1,9 +1,9 @@
 <details> <summary> <b>lede new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/64f71ae6909e21e8f138c621b36ebb3eb214b0bf...73c1191ebdf2282685a9430c0f3a7531009391e7)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/73c1191ebdf2282685a9430c0f3a7531009391e7...e8bce27462ab259ff61f33cf1d17b925f8e82f3d)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-73c1191eb|aiamadeus|Tue Aug 4 18:05:09 2026 +0800|rockchip: package 3588 NPU driver
+e8bce2746|sucrisa|Fri Aug 7 18:00:10 2026 +0800|autocore: fix rps cpu mask on x86
 </details>

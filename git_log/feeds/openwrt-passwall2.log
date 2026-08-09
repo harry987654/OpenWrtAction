@@ -1,0 +1,25 @@
+<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall2/compare/c1d3d4f0551d4f2f6b5fbb86b5ac8428af7853d2...e840e4385e40bd95a27ddf3cbfb8be68b9ac6c01)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+e840e43|handsomeji|Sun Aug 9 01:39:21 2026 +0800|luci: optimize and fix detail
+1450c76|handsomeji|Sun Aug 9 00:35:52 2026 +0800|luci: Sing-Box add `cipherSuites` option
+c62cdd7|handsomeji|Sat Aug 8 22:34:45 2026 +0800|luci: fix #1185
+89b4527|handsomeji|Sat Aug 8 22:01:31 2026 +0800|luci: Xray add `cipherSuites` option
+54cac8e|handsomeji|Sat Aug 8 19:24:13 2026 +0800|luci: subscribe_list does not use anonymous id
+adb0a00|handsomeji|Sat Aug 8 19:02:41 2026 +0800|luci: acl_rule does not use anonymous id
+5f5e247|handsomeji|Sat Aug 8 20:47:05 2026 +0800|luci: fix socks
+708363d|handsomeji|Sat Aug 8 19:09:09 2026 +0800|luci: section cfgid add prefix
+95130e8|handsomeji|Sat Aug 8 15:27:00 2026 +0800|luci: optimize code
+bc2cdb3|A-BO|Sat Aug 8 13:20:32 2026 +0800|luci: optimize shunt rules group
+993184f|handsomeji|Fri Aug 7 23:14:28 2026 +0800|luci: bump to 26.8.7
+91016a7|A-BO|Tue Aug 4 23:35:43 2026 +0800|luci: fix translate
+fff7e88|A-BO|Tue Aug 4 22:28:04 2026 +0800|luci: add anytls `client_metadata`
+d80a287|wybb|Fri Jul 31 13:45:33 2026 +0800|luci: preserve empty Hy bandwidth settings
+80b53e4|A-BO|Fri Jul 24 10:40:56 2026 +0800|luci: adjust the logic of socks auto switch
+
+
+</details>
