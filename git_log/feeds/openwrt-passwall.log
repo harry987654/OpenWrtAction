@@ -1,11 +1,12 @@
 <details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/ae9a59621c49a299457956d181d0b4ec63ea0b85...65a19a4e3020292700134903225bcd6d9fbe866b)  
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/65a19a4e3020292700134903225bcd6d9fbe866b...73815895a593bba06d16adea908dfb99bff3169b)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-65a19a4e|David Mandy|Mon Aug 10 03:26:50 2026 +0800|luci: default rule update
-fa1de0c3|A-BO|Sun Aug 9 23:17:21 2026 +0800|luci: adapt section markup for old and new LuCI versions
-ba6d052c|A-BO|Sun Aug 9 21:15:59 2026 +0800|luci: simplify code
+73815895|A-BO|Mon Aug 10 13:36:43 2026 +0800|Revert "luci: remove the `default allowinsecure` setting from the subscribe"
+c327f227|A-BO|Mon Aug 10 13:34:12 2026 +0800|luci: fixup
+5a424847|A-BO|Mon Aug 10 11:33:58 2026 +0800|luci: optimize clash subconverter
+50b207e1|A-BO|Mon Aug 10 09:42:54 2026 +0800|luci: simplify code
 </details>
