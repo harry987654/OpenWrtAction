@@ -33,7 +33,7 @@ lede_value='{
   "OS": "ubuntu-latest"
 }'
 
-openwrt_platforms=(X86)
+# openwrt_platforms=(X86)
 immortalwrt_platforms=(X86)
 lede_platforms=(X86)
 
