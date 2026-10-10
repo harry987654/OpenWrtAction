@@ -31,8 +31,8 @@ rm -rf ./feeds/packages/net/open-app-filter
 sed -i 's/192.168.1.1/192.168.8.1/g' package/base-files/files/bin/config_generate
 
 # 内核和系统分区大小(不是每个机型都可用)
-export Kernel_partition_size="64"           # 内核分区大小,每个机型默认值不一样 (填写您想要的数值,默认一般16,数值以MB计算，填0为不作修改),如果你不懂就填0
-export Rootfs_partition_size="500"          # 系统分区大小,每个机型默认值不一样 (填写您想要的数值,默认一般300左右,数值以MB计算，填0为不作修改),如果你不懂就填0
+export Kernel_partition_size="64"           
+export Rootfs_partition_size="500"          
 
 # 个性签名,默认增加年月日[$(TZ=UTC-8 date "+%Y.%m.%d")]
 export Customized_Information="Avatar(TZ=UTC-8 date "2026.10.08")"  # 个性签名,你想写啥就写啥，(填0为不作修改)
