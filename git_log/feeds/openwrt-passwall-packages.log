@@ -1,0 +1,11 @@
+<details> <summary> <b>openwrt-passwall-packages new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall-packages/compare/9178f2e627a1a104b0b35d1c47a7672dff42c970...1af0a5c4fb3a227201683b64d32f61c65db9be72)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+1af0a5c|David Mandy|Sat Oct 10 18:55:50 2026 +0800|xray-core: update to 26.10.10 (#745)
+3e311d8|David Mandy|Sat Oct 10 18:43:23 2026 +0800|v2ray-geosite: update to 202610092207 (#746)
+c1055aa|David Mandy|Sat Oct 10 18:43:09 2026 +0800|v2ray-geoip: update to 202610080033 (#744)
+</details>
