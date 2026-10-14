@@ -1,17 +1,23 @@
 <details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/2d8e8c8144ff7cde3818513478cc644d56c2ecb8...b0449b1d1139cb730eef7acdf61f60897a140c9d)  
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/b0449b1d1139cb730eef7acdf61f60897a140c9d...586d7cf692c111353437c1e89486f539e2779241)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
+586d7cf6|ShanStone|Wed Oct 14 17:19:20 2026 +0800|luci: make insert_nftset function accept pipe input only
+8f732385|A-BO|Wed Oct 14 03:22:05 2026 +0800|luci: Add automatic mode for SmartDNS default DNS
+09115691|A-BO|Tue Oct 13 01:43:07 2026 +0800|luci: fix acl config
+1856616a|A-BO|Tue Oct 13 01:25:22 2026 +0800|luci: deduplicate node selector group data and isolate caches
+61b39bce|A-BO|Tue Oct 13 00:02:26 2026 +0800|luci: optimize binary version cache
+9a248773|A-BO|Mon Oct 12 21:17:10 2026 +0800|luci: add odhcpd leases and static DHCP hosts to dnsmasq replicas
+3a7f5fcd|Husky|Mon Oct 12 14:55:45 2026 +0800|luci: refine SmartDNS redirect mode hosts loading and rule group isolation (#4493)
+30ceb0d3|A-BO|Mon Oct 12 00:55:47 2026 +0800|luci: skip dns shunt logs for direct/blackhole rules
+0725bb48|A-BO|Mon Oct 12 00:43:35 2026 +0800|luci: optimize DNS redirection logic in SmartDNS shunt mode
+7d192fc1|A-BO|Sun Oct 11 19:01:17 2026 +0800|luci: optimize
+22259e52|A-BO|Sat Oct 10 22:19:04 2026 +0800|luci: reduce HAProxy URL health check overhead and optimize check scheduling
+05098e6b|A-BO|Sat Oct 10 21:00:52 2026 +0800|luci: optimize urltest logic
 b0449b1d|A-BO|Sun Oct 11 19:01:17 2026 +0800|luci: optimize
 6410bdf1|A-BO|Sat Oct 10 22:19:04 2026 +0800|luci: reduce HAProxy URL health check overhead and optimize check scheduling
 18632b00|A-BO|Sat Oct 10 21:00:52 2026 +0800|luci: optimize urltest logic
-f0c9adae|A-BO|Fri Oct 9 23:21:22 2026 +0800|luci: refactor curl direct download logic
-701d982a|A-BO|Thu Oct 8 23:39:08 2026 +0800|luci: refactor locking for subscription and rule updates
-92916bed|A-BO|Thu Oct 8 19:00:37 2026 +0800|luci: optimize iface hotplug code
-4db1995c|A-BO|Thu Oct 8 02:07:56 2026 +0800|luci: optimize and fix
-1a15c386|A-BO|Wed Oct 7 13:10:46 2026 +0800|luci: remove `curl_direct` related logic
-2708533e|A-BO|Wed Oct 7 12:56:45 2026 +0800|luci: modify the unit for the hy2 quic receive window setting
 </details>

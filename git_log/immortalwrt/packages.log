@@ -1,9 +1,22 @@
 <details> <summary> <b>packages new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/immortalwrt/packages/compare/84bd86384928955b568988ca0e09e2c78c75173d...52ddbd11d66106615543af7352bf84ae20e5f1f8)  
+#### [:mega: Full Changelog. ](https://github.com/immortalwrt/packages/compare/52ddbd11d66106615543af7352bf84ae20e5f1f8...fbb9870723f11dab1c33ecabeddf7d847e66cda0)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-52ddbd11d|Tianling Shen|Sat Oct 10 10:24:51 2026 +0800|postfix: fix build with kernel 7.x
+fbb987072|Tianling Shen|Sat Oct 10 12:22:55 2026 +0800|qt6tools: Update to 6.12.0
+cabf7f6c0|Tianling Shen|Sat Oct 10 12:22:45 2026 +0800|qt6base: Update to 6.12.0
+2fc6de250|Tianling Shen|Sat Oct 10 11:30:59 2026 +0800|qBittorrent-Enhanced-Edition: update to 5.2.4.10
+cf6cb062e|Tianling Shen|Sat Oct 10 11:25:33 2026 +0800|qbittorrent: update to 5.2.4
+174022994|Tianling Shen|Sun Oct 4 18:00:08 2026 +0800|7z: Update to 26.03
+e3f62c013|Tianling Shen|Fri Oct 2 19:38:13 2026 +0800|naiveproxy: fix build with python3.9
+727f75697|Tianling Shen|Fri Oct 2 18:03:53 2026 +0800|gn: downgrade to 2026-06-27
+4b731453c|Tianling Shen|Fri Oct 2 17:45:45 2026 +0800|naiveproxy: fix aarch64 target detection
+5b5f1d639|Tianling Shen|Fri Oct 2 17:21:45 2026 +0800|gn: downgrade to 2026-08-11
+bc4f775c8|Tianling Shen|Fri Oct 2 16:35:07 2026 +0800|naiveproxy: Update to 154.0.8037.49-2
+18a01ce2c|Tianling Shen|Fri Oct 2 16:17:11 2026 +0800|gn: update to Git HEAD (2026-10-01)
+034bcc07b|Tianling Shen|Sun Jan 18 12:39:16 2026 +0800|naiveproxy: Update to 143.0.7499.109-2
+7056f5670|Tianling Shen|Sun Jan 18 12:37:45 2026 +0800|gn: update to Git HEAD (2026-01-14)
+89beeec99|Tianling Shen|Sat Oct 3 20:51:08 2026 +0800|msd_lite: bump to latest git HEAD
 </details>
