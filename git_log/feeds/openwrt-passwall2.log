@@ -1,9 +1,0 @@
-<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
-
-#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall2/compare/c2f83897a23534407ed5035f51565ae2eb3a1462...e3788855d3cb3ddc3f4027ea2480d7c19019f033)  
-:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
-
-SHA|Author|Date|Message
--|-|-|-
-e378885|A-BO|Sat Oct 17 21:01:58 2026 +0800|luci: optimize socks auto switch
-</details>
