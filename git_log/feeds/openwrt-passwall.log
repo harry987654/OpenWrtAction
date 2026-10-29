@@ -1,14 +1,25 @@
 <details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/00202bb00d3781d33ad29057e4e833a833d476dc...0b14995d2375083ee2ff489a839966e3e8ae1cf4)  
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/0b14995d2375083ee2ff489a839966e3e8ae1cf4...d5795638459e8b9a3ba85970c7931c7109195b63)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-0b14995d|A-BO|Thu Oct 22 00:25:03 2026 +0800|luci: bump 26.10.22
-b6c29e2f|A-BO|Wed Oct 21 23:49:07 2026 +0800|luci: select nslookup DNS port format based on BusyBox version
-9b72dfb2|A-BO|Wed Oct 21 22:14:05 2026 +0800|luci: add shared SHA256 verification for update downloads
-ae258e4d|A-BO|Tue Oct 20 17:33:27 2026 +0800|fix(app): return 0 from start() so boot creates ready.lock
-ab7ff4c2|A-BO|Tue Oct 20 01:35:03 2026 +0800|luci: optimize and fix clash subconverter
-70994636|Husky|Mon Oct 19 19:48:57 2026 +0800|feat(subscribe): compute md5 on parsed nodes and decouple account info refresh (#4496)
+d5795638|A-BO|Thu Oct 29 20:59:41 2026 +0800|luci: enhance app version display with additional styling
+4dbe7ce4|A-BO|Thu Oct 29 19:20:02 2026 +0800|luci: move installation cache cleanup to uci-defaults
+ff82e10c|A-BO|Thu Oct 29 00:30:38 2026 +0800|luci: bump 26.10.29
+1a98d739|A-BO|Thu Oct 29 00:29:12 2026 +0800|luci: update default rules
+4a93f542|A-BO|Thu Oct 29 00:00:19 2026 +0800|luci: fix update failures on legacy LuCI
+4d9ea4b9|A-BO|Wed Oct 28 22:50:17 2026 +0800|luci: replace node-list custom modal group dropdowns with native LuCI widgets
+f987bb91|A-BO|Wed Oct 28 21:17:45 2026 +0800|luci: optimize
+f290223d|iIl1o0O304|Wed Oct 28 11:14:47 2026 +0800|luci: set QUIC max window size to the same value as init for Hysteria2/Xray (#4503)
+fcd519ec|A-BO|Tue Oct 27 22:09:28 2026 +0800|luci: unify node list filter control heights across themes
+906f4f8c|A-BO|Tue Oct 27 20:33:53 2026 +0800|luci: cache sing-box build tags alongside version
+61cbd869|A-BO|Sun Oct 25 23:09:25 2026 +0800|luci: validate Geo files when SHA256 checksums are unavailable
+031ed98f|A-BO|Sun Oct 25 18:07:45 2026 +0800|luci: fixup
+4b74bdd7|A-BO|Sat Oct 24 20:16:54 2026 +0800|luci: add gfwlist fallback for GFW routing when geosite lacks GFW tag
+5fd61e34|A-BO|Sat Oct 24 13:49:02 2026 +0800|luci: fix missing VLESS decryption when no valid users are configured
+2a47869b|A-BO|Sat Oct 24 13:36:41 2026 +0800|luci: add click-to-sort and filters on the node list
+
+
 </details>

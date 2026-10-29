@@ -1,12 +1,25 @@
 <details> <summary> <b>luci new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/luci/compare/db1769bb916621c5062ddff3d546ebef9a38c56e...52fe2099ced3b25532d7607877223b4763a192a9)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/luci/compare/52fe2099ced3b25532d7607877223b4763a192a9...61beae9960f3c2f6cd4af0c548a1f19a20cd20c8)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-52fe2099ce|github-actions[bot]|Wed Oct 21 07:40:28 2026 +0000|ci: sync upstream luci applications
-d76b5e588c|github-actions[bot]|Tue Oct 20 07:35:52 2026 +0000|ci: sync upstream luci applications
-76e7be120d|lean|Tue Oct 20 10:23:14 2026 +0800|luci-mod-status: read normalized board device labels
-f017a872bf|lean|Tue Oct 20 02:34:57 2026 +0800|luci-mod-network: expose MT7996 BSP 6 GHz controls
+61beae9960|coolsnowwolf|Thu Oct 29 21:54:19 2026 +0800|luci-app-diskman: use kmod-fs-exfat on all kernels
+81d86a9dc1|coolsnowwolf|Thu Oct 29 18:06:04 2026 +0800|luci-mod-network: show QCA AP theoretical PHY bitrate
+c27505b8d7|coolsnowwolf|Thu Oct 29 17:50:52 2026 +0800|luci-app-turboacc: remove obsolete acceleration interface
+d27cdc8ce2|milkman|Thu Oct 29 17:39:13 2026 +0900|luci-mod-network: use Direct Switch for wireless PPE acceleration (#426)
+801260ffc5|github-actions[bot]|Thu Oct 29 08:29:52 2026 +0000|ci: sync upstream luci applications
+f71b107cae|coolsnowwolf|Thu Oct 29 16:21:08 2026 +0800|luci-mod-network: show reported QCA transmit power
+fea197c306|coolsnowwolf|Thu Oct 29 02:16:58 2026 +0800|luci-app-firewall: expose Qualcomm NSS ECM offloading
+ace2bebe51|github-actions[bot]|Wed Oct 28 08:33:59 2026 +0000|ci: sync upstream luci applications
+eb82901b80|coolsnowwolf|Wed Oct 28 03:42:59 2026 +0800|luci-mod-network: fix QCA scan targets and HE160 width detection
+4c7262d2a0|coolsnowwolf|Tue Oct 27 07:40:24 2026 +0800|luci: resolve QCA runtime VAPs and restore wireless controls
+5d7fa96221|coolsnowwolf|Tue Oct 27 07:40:24 2026 +0800|luci-base: detect IPQ40xx native DESS flow offload
+3f7352d94a|github-actions[bot]|Mon Oct 26 07:48:46 2026 +0000|ci: sync upstream luci applications
+716513dd79|uparrows|Mon Oct 26 00:11:12 2026 +0800|luci-app-dockerman:add a start button to avoid not being able to launch Docker from the web page after clicking stop (#425)
+ab58f9a176|github-actions[bot]|Sun Oct 25 07:36:10 2026 +0000|ci: sync upstream luci applications
+33ddcd48d4|github-actions[bot]|Sat Oct 24 07:18:21 2026 +0000|ci: sync upstream luci applications
+
+
 </details>
