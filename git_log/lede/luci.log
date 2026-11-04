@@ -1,25 +1,20 @@
 <details> <summary> <b>luci new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/luci/compare/52fe2099ced3b25532d7607877223b4763a192a9...61beae9960f3c2f6cd4af0c548a1f19a20cd20c8)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/luci/compare/61beae9960f3c2f6cd4af0c548a1f19a20cd20c8...04bdb60fc11343d62916c530422a8971ffa73d42)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-61beae9960|coolsnowwolf|Thu Oct 29 21:54:19 2026 +0800|luci-app-diskman: use kmod-fs-exfat on all kernels
-81d86a9dc1|coolsnowwolf|Thu Oct 29 18:06:04 2026 +0800|luci-mod-network: show QCA AP theoretical PHY bitrate
-c27505b8d7|coolsnowwolf|Thu Oct 29 17:50:52 2026 +0800|luci-app-turboacc: remove obsolete acceleration interface
-d27cdc8ce2|milkman|Thu Oct 29 17:39:13 2026 +0900|luci-mod-network: use Direct Switch for wireless PPE acceleration (#426)
-801260ffc5|github-actions[bot]|Thu Oct 29 08:29:52 2026 +0000|ci: sync upstream luci applications
-f71b107cae|coolsnowwolf|Thu Oct 29 16:21:08 2026 +0800|luci-mod-network: show reported QCA transmit power
-fea197c306|coolsnowwolf|Thu Oct 29 02:16:58 2026 +0800|luci-app-firewall: expose Qualcomm NSS ECM offloading
-ace2bebe51|github-actions[bot]|Wed Oct 28 08:33:59 2026 +0000|ci: sync upstream luci applications
-eb82901b80|coolsnowwolf|Wed Oct 28 03:42:59 2026 +0800|luci-mod-network: fix QCA scan targets and HE160 width detection
-4c7262d2a0|coolsnowwolf|Tue Oct 27 07:40:24 2026 +0800|luci: resolve QCA runtime VAPs and restore wireless controls
-5d7fa96221|coolsnowwolf|Tue Oct 27 07:40:24 2026 +0800|luci-base: detect IPQ40xx native DESS flow offload
-3f7352d94a|github-actions[bot]|Mon Oct 26 07:48:46 2026 +0000|ci: sync upstream luci applications
-716513dd79|uparrows|Mon Oct 26 00:11:12 2026 +0800|luci-app-dockerman:add a start button to avoid not being able to launch Docker from the web page after clicking stop (#425)
-ab58f9a176|github-actions[bot]|Sun Oct 25 07:36:10 2026 +0000|ci: sync upstream luci applications
-33ddcd48d4|github-actions[bot]|Sat Oct 24 07:18:21 2026 +0000|ci: sync upstream luci applications
-
-
+04bdb60fc1|github-actions[bot]|Wed Nov 4 09:13:36 2026 +0000|ci: sync upstream luci applications
+d9b0cc4812|coolsnowwolf|Tue Nov 3 22:18:33 2026 +0800|luci-app-firewall: add hardware offload protocol selection
+f784ce161a|coolsnowwolf|Tue Nov 3 10:25:03 2026 +0800|luci-app-zerotier: bump version
+f4c14a85d6|github-actions[bot]|Mon Nov 2 09:31:47 2026 +0000|ci: sync upstream luci applications
+f0e4c0f6b8|github-actions[bot]|Sun Nov 1 09:17:04 2026 +0000|ci: sync upstream luci applications
+d7d7e0849d|coolsnowwolf|Sun Nov 1 09:15:50 2026 +0800|luci: integrate per-client hardware QoS controls and routed connection counts
+a2aebe9faf|coolsnowwolf|Sat Oct 31 17:21:09 2026 +0800|luci: fall back to QCA radio names for generic hardware records
+d71a2d9cd1|github-actions[bot]|Sat Oct 31 08:26:32 2026 +0000|ci: sync upstream luci applications
+6c4b649244|coolsnowwolf|Sat Oct 31 11:59:39 2026 +0800|luci-mod-status: avoid counting buffers twice in available memory
+66112fc2a8|coolsnowwolf|Sat Oct 31 10:43:54 2026 +0800|luci-app-firewall: gate software offload and translate vendor modes
+401af8da8d|coolsnowwolf|Sat Oct 31 00:43:47 2026 +0800|luci-app-openclash: respect completed setup guide state
+824505c730|github-actions[bot]|Fri Oct 30 08:40:03 2026 +0000|ci: sync upstream luci applications
 </details>
