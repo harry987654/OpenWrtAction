@@ -1,16 +1,25 @@
 <details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall2/compare/90445447a9f5e12337d48b71ff6cf2c4824f6eb3...176e27cb8d9852ce9b30d2e180810b544d8fc9dc)  
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall2/compare/176e27cb8d9852ce9b30d2e180810b544d8fc9dc...d9ba18d0443e6c66fc254beacf63367ca4a4c85d)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-176e27c|lwb1978|Tue Nov 3 23:28:37 2026 +0800|luci: bump 26.11.3
-fe90ae8|lwb1978|Tue Nov 3 20:12:42 2026 +0800|luci: fix the haproxy port auto-fill error
-8c67190|A-BO|Mon Nov 2 11:44:46 2026 +0800|luci: validate update assets before starting downloads
-be8d917|bruceliu1388|Sun Nov 1 13:10:48 2026 +0800|luci: restart rpcd only when ACL file changes during luci update (#1339)
-b611038|A-BO|Sun Nov 1 12:33:58 2026 +0800|luci: fix typos in English help text and comments
-d08e7f8|A-BO|Sat Oct 31 13:02:18 2026 +0800|luci: normalize whitespace
-6e06876|A-BO|Fri Oct 30 21:53:01 2026 +0800|luci: normalize app update row spacing across themes
-e16790a|A-BO|Fri Oct 30 09:05:52 2026 +0800|luci: fix mkcp-legacy entry order in Xray finalmask
+d9ba18d|A-BO|Mon Nov 23 23:53:09 2026 +0800|luci: prevent line wrapping in client and server logs
+7cad798|A-BO|Mon Nov 23 22:26:19 2026 +0800|luci: bump 26.11.23
+31b5265|A-BO|Mon Nov 23 20:39:09 2026 +0800|luci: optimize
+ccae1fd|A-BO|Mon Nov 23 01:47:24 2026 +0800|luci: fix RAW HTTP Host and Path handling
+7d6bae5|A-BO|Fri Nov 20 02:03:05 2026 +0800|luci: batch UCI writes for subscription nodes
+cb6fc9f|A-BO|Thu Nov 19 23:38:56 2026 +0800|luci: resolve XHTTP download addresses with node-specific DNS
+8b24c84|A-BO|Thu Nov 19 23:23:52 2026 +0800|luci: support per-node DNS policies in Clash subscriptions
+a32c046|A-BO|Wed Nov 18 23:35:02 2026 +0800|luci: add WireGuard and MASQUE support to Clash subscription conversion
+eab954e|A-BO|Wed Nov 18 22:43:58 2026 +0800|luci: Add MASQUE URI import/export
+fbe2b6b|A-BO|Tue Nov 17 22:51:20 2026 +0800|luci: explicitly specify IPv6 family for nftables TPROXY rules
+9c6d23d|A-BO|Tue Nov 17 19:52:40 2026 +0800|luci: reset rp_filter and src_valid_mark for TPROXY compatibility
+0c817f7|A-BO|Mon Nov 16 21:50:20 2026 +0800|luci: prevent duplicate node references during subscription updates
+9ea760f|A-BO|Sun Nov 15 20:03:10 2026 +0800|luci: align SOCKS table layout and port status with PassWall
+097b01d|A-BO|Sun Nov 15 19:17:31 2026 +0800|luci: improve responsive layouts and node selector theming
+35d20ce|A-BO|Sun Nov 15 09:59:35 2026 +0800|luci: fix port allocation and node test startup races
+
+
 </details>

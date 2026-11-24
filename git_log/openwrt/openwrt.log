@@ -1,15 +1,25 @@
 <details> <summary> <b>openwrt new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/openwrt/openwrt/compare/5cf752f7ff54eed3dbc0e9460292d54996576117...cf2cae90b4ffd3c900ff902e85cce761492e9a38)  
+#### [:mega: Full Changelog. ](https://github.com/openwrt/openwrt/compare/cf2cae90b4ffd3c900ff902e85cce761492e9a38...c8a7c4c065f8f649e8821b490c97fc3c9ae26fab)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-cf2cae90b4|David Bentham|Fri Oct 16 05:03:36 2026 +0100|hostapd: silence unexpected link measurement report log
-6c57f7cd04|Hauke Mehrtens|Tue Nov 3 01:27:41 2026 +0100|libubox: update to Git openwrt-25.12 (2026-11-03)
-5858ebc1fc|Jackie Han|Sat Oct 24 15:45:33 2026 +0800|ipq40xx: whw03v2: fix PHY reset GPIO description
-ba477a8a1c|Jackie Han|Sat Oct 24 15:45:33 2026 +0800|ipq40xx: revert qcom_scm SDI/download mode probe change
-2d44c5ae22|David Bauer|Fri Jul 24 15:11:08 2026 +0200|mpc85xx: relocate simpleImage for WS-AP3710i
-f9d2a05684|Paul Donald|Wed May 27 19:16:22 2026 +0300|lldpd: bump to 1.0.22
-8303e9b2a0|Goetz Goerisch|Sat Oct 17 16:38:38 2026 +0200|kernel: bump 6.12 to 6.12.113
+c8a7c4c065|David Bauer|Mon Nov 23 23:22:44 2026 +0100|ipq806x: refresh patches
+c100ccd7a8|David Bauer|Mon Nov 23 23:04:51 2026 +0100|ipq806x: backport stmmac UDP checksum fixes
+0a6d9c09a3|Deomid rojer Ryabkov|Tue Nov 10 17:36:26 2026 +0200|rockchip: enable SDIO Wi-Fi on NanoPi R2S Plus
+fb07737946|David Härdeman|Mon Nov 16 14:13:46 2026 +0000|generic: backport SDIO UHS fixes for cards misreporting S18A
+c5adc39903|Tianling Shen|Sun Oct 4 18:08:27 2026 +0800|tools/7z: update to 26.03
+80a9ec2433|John Audia|Thu Oct 22 18:07:57 2026 -0400|linux-firmware: update to 20261019
+2291003fb9|John Audia|Wed Sep 16 15:15:54 2026 -0400|linux-firmware: update to 20260916
+42279bea9c|John Audia|Thu Sep 10 16:33:38 2026 -0400|linux-firmware: update to 20260910
+4755bf4bd4|John Audia|Mon Aug 10 16:13:12 2026 -0400|linux-firmware: update to 20260810
+5780bdf43f|John Audia|Sat Jun 27 14:17:02 2026 -0400|linux-firmware: update 20260622
+fae355a67a|John Audia|Tue May 19 14:15:47 2026 -0400|linux-firmware: update to 20260519
+dc90441d16|Christian Marangi|Thu Apr 23 17:01:09 2026 +0200|firmware: better specify the supported WiFi chip for basic AN7581 NPU FW
+787697b2a9|John Audia|Fri Apr 10 15:28:01 2026 -0400|linux-firmware: update to 20260410
+4c45e251b5|John Audia|Tue Mar 10 16:22:39 2026 -0400|linux-firmware: update to 20260309
+8d054d984a|Martin Schiller|Thu Nov 19 13:58:41 2026 +0000|kernel: bump 6.12 to 6.12.118
+
+
 </details>

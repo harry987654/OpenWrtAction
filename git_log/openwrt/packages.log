@@ -1,25 +1,25 @@
 <details> <summary> <b>packages new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/openwrt/packages/compare/017f7ee81c02cbec175992c8a271c48f9440d1fb...e0d2c013e90619d429403fb8e0ef69e88e8629a2)  
+#### [:mega: Full Changelog. ](https://github.com/openwrt/packages/compare/e0d2c013e90619d429403fb8e0ef69e88e8629a2...53c6ace878eb6694e4f541525e8a72acc7c5efbf)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-e0d2c013e|Vladimir Ulrich|Wed Nov 4 19:14:06 2026 +0200|zoneinfo: update to 2026f release
-22319eaa3|Niklas Thorild|Mon Nov 2 20:55:18 2026 +0100|telegraf: update to 1.40.3
-aea49e65a|Josef Schlehofer|Thu Oct 29 14:55:05 2026 +0100|luajit: do not build on riscv64
-9db97fd3f|Josef Schlehofer|Thu Oct 29 14:55:04 2026 +0100|luajit: indent the package metadata with two spaces
-15af690cf|Elly Sai|Thu Oct 1 00:14:20 2026 +0300|ddns-scripts: add alviy.com provider
-8b272d2eb|Romain Isnel|Wed Sep 2 13:11:46 2026 +0200|msmtp: update to 1.8.34
-461a9f053|Josef Schlehofer|Mon Nov 2 23:40:36 2026 +0100|weechat: update to 4.10.2
-771281271|Tianling Shen|Tue Nov 3 17:43:30 2026 +0800|libtorrent-rasterbar: fix Python bindings on 25.12
-3c6f78aa7|Sami Salonen|Sun Oct 25 09:22:08 2026 +0200|netbird: update to 0.81.4
-3a4c00487|Dirk Brenken|Mon Nov 2 17:05:30 2026 +0100|banip: update 1.9.1-5
-e9a1c22d1|Dirk Brenken|Sun Nov 1 19:50:23 2026 +0100|banip: update 1.9.1-4
-630cd7a81|Qingfang Deng|Mon Oct 26 22:24:56 2026 +0800|ovpn-dco: update to 7.3.0.2026100801
-62ea8befc|Qingfang Deng|Mon Oct 26 22:24:03 2026 +0800|openvpn: update to 2.7.8
-fae099b50|Martino Dell'Ambrogio|Sat Oct 31 12:29:58 2026 +0100|miniupnpd: backport the CVE-2026-5720 fix to 2.3.9
-9b52d3f7a|John Audia|Thu Oct 29 19:15:01 2026 +0000|openssh: add mldsa44-ed25519 host key
+53c6ace87|George Sapkin|Thu Nov 19 20:03:34 2026 +0200|adguardhome: bump to 1.0.0
+bc6d9fddc|George Sapkin|Thu Nov 19 20:41:32 2026 +0200|adguardhome: normalize Makefile
+741d854b4|George Sapkin|Thu Nov 19 20:12:32 2026 +0200|adguardhome: drop inactive maintainer
+1470d878a|Dirk Brenken|Sun Nov 22 20:06:29 2026 +0100|adblock: release 4.5.10-1
+faedd483e|Josef Schlehofer|Wed Sep 23 00:57:01 2026 +0200|syslog-ng: use CMake instead of autotools
+98a61de47|Sander van Deijck|Fri Oct 30 15:31:05 2026 +0100|syslog-ng: drop unused libdbi dependency
+32514adde|Ray Wang|Fri Nov 13 21:16:20 2026 +0800|hev-socks5-tunnel: update to 2.20.0
+46bea15a5|Ray Wang|Wed Nov 11 21:06:22 2026 +0800|hev-socks5-tproxy: update to 2.14.0
+fcf581f85|Ray Wang|Wed Nov 11 21:04:50 2026 +0800|fsh: update to 4.12.0
+36bcf38e0|Noah Meyerhans|Sat Nov 21 11:13:34 2026 -0500|bind: bump to 9.20.31
+70792587c|Christian Marangi|Wed Nov 18 22:06:27 2026 +0100|nginx: update to 1.30.7
+088bdcbe0|Tianshuai Gao|Mon Jul 6 10:58:07 2026 +0800|nginx: 302 the "/" path to "/cgi-bin/luci/"
+211801cf6|Nikita Solianik|Mon Sep 29 19:20:59 2025 +0200|nginx-util: specify gzip_types to actually enable gzip
+a3df40fd2|Florian Wagner|Thu Oct 8 10:34:06 2026 +0200|nginx: only build luajit2 if required
+da4e543d7|Keiji Hata|Fri Jul 24 16:26:46 2026 +0800|nginx: update repository of maintained naxsi module
 
 
 </details>

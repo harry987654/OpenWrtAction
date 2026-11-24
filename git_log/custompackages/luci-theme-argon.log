@@ -1,14 +1,25 @@
 <details> <summary> <b>luci-theme-argon new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/jerrykuku/luci-theme-argon/compare/517971b773991541ecb5e118b0c5d0b609a79e06...378db9f62bdc843cc71c58a9c01f94b817508c66)  
+#### [:mega: Full Changelog. ](https://github.com/jerrykuku/luci-theme-argon/compare/378db9f62bdc843cc71c58a9c01f94b817508c66...076355f33cd762172a67fa06ec6bd2230d9d9e09)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-378db9f|jerrykuku|Mon Nov 2 07:14:53 2026 +0000|docs: keep v3.1.2 release notes concise
-8a0ae13|github-actions[bot]|Mon Nov 2 15:12:18 2026 +0800|docs: sync release notes for v3.1.2
-7b77b44|jerrykuku|Mon Nov 2 07:00:53 2026 +0000|release: v3.1.2
-858cd14|jerrykuku|Mon Nov 2 06:40:29 2026 +0000|fix(overview): normalize ImmortalWrt port card sizing
-b6edd95|jerrykuku|Mon Nov 2 06:40:29 2026 +0000|fix(openclash): contain startup status logs
-06db78b|jerrykuku|Mon Nov 2 06:40:29 2026 +0000|fix(theme): style standalone input buttons consistently
+076355f|老竭力|Mon Nov 23 14:51:59 2026 +0800|Merge pull request #744 from Sn0wo2/feat/background-image
+04d32b8|Me0wo|Mon Nov 23 14:03:00 2026 +0800|fix(ui): address admin wallpaper review feedback
+4c42d55|Me0wo|Sun Nov 22 23:17:33 2026 +0800|feat(ui): derive the admin glass from the login panel settings
+d0048b0|Me0wo|Sun Nov 22 22:52:21 2026 +0800|fix(ui): round the admin content pane corners
+919789f|Me0wo|Sun Nov 22 22:42:52 2026 +0800|feat(ui): separate admin glass opacity and blur settings
+452654d|Me0wo|Sun Nov 22 22:24:38 2026 +0800|fix(ui): frost the admin content pane and split the glass floor by mode
+21d3495|Me0wo|Sun Nov 22 22:07:13 2026 +0800|fix(ui): admin wallpaper contrast, scoped selectors, and PO entries
+e1e8f0e|Me0wo|Sun Nov 22 21:31:32 2026 +0800|feat(ui): main_glass switch and background style cleanup
+dd36493|Me0wo|Sun Nov 22 18:47:01 2026 +0800|feat(ui): background image
+a4947cc|jerrykuku|Sun Nov 22 09:42:10 2026 +0000|fix(theme): fit wireless details on narrow screens
+d0b2ae9|jerrykuku|Sun Nov 22 09:42:10 2026 +0000|fix(wallpaper): fall back between Bing endpoints
+a121960|jerrykuku|Fri Nov 13 10:52:32 2026 +0000|docs: keep v3.1.4 release notes concise
+2594f6f|github-actions[bot]|Fri Nov 13 18:49:05 2026 +0800|docs: sync release notes for v3.1.4
+c5c0873|jerrykuku|Fri Nov 13 10:32:39 2026 +0000|release: v3.1.4
+53dfb19|jerrykuku|Fri Nov 13 10:18:06 2026 +0000|fix(theme): improve motion controls, navigation and chart performance
+
+
 </details>
